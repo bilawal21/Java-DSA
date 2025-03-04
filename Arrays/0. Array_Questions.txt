@@ -1,0 +1,59 @@
+1. Sum of Elements:
+   Write a function to calculate the sum of all elements in an array.
+
+2. Find Maximum:
+   Write a function to find the maximum element in an array.
+
+3. Find Minimum:
+   Write a function to find the minimum element in an array.
+
+4. Average of Elements:
+   Write a function to calculate the average of all elements in an array.
+
+5. Count Occurrences:
+   Write a function to count the number of times a specific element appears in an array.
+
+6. Reverse Array:
+   Write a function to reverse the elements of an array.
+
+7. Remove Duplicates:
+   Write a function to remove duplicate elements from an array.
+
+8. Merge Arrays:
+   Write a function to merge two arrays into a single array.
+
+9. Array Rotation:
+   Write a function to rotate the elements of an array to the left by a given number of positions.
+
+10. Find Second Largest:
+    Write a function to find the second largest element in an array.
+
+11. Check for Sorted Array:
+    Write a function to check if an array is sorted in ascending order.
+
+12. Insert Element:
+    Write a function to insert an element at a specific position in an array.
+
+13. Find Intersection:
+    Write a function to find the intersection of two arrays.
+
+14. Find Union:
+    Write a function to find the union of two arrays.
+
+15. Count Even and Odd Numbers:
+    Write a function to count the number of even and odd numbers in an array.
+
+16. Move Zeros to End:
+    Write a function to move all zeros in an array to the end while maintaining the order of non-zero elements.
+
+17. Sum of Even Numbers:
+    Write a function to calculate the sum of all even numbers in an array.
+
+18. Common Elements:
+    Write a function to find common elements in three arrays.
+
+19. Find Pair with Sum:
+    Write a function to find a pair of elements in an array whose sum equals a given number.
+
+20. Longest Increasing Subsequence:
+    Write a function to find the length of the longest increasing subsequence in an array.
